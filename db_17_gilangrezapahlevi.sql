@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 05, 2021 at 05:32 AM
+-- Generation Time: Aug 05, 2021 at 05:58 AM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.2.33
 
@@ -38,10 +38,7 @@ CREATE TABLE `tb_siswa` (
 --
 
 INSERT INTO `tb_siswa` (`id_siswa`, `nama`, `hp`) VALUES
-(1, 'Gilang Reza Pahlevi', 233532345),
-(2, 'Gilang Reza Pahlevi', 233532345),
-(3, 'Gilang Reza Phlevi', 124123),
-(4, 'Gilang Reza Phlevi', 124123);
+(1, 'Gilang Reza Pahlevi', 233532345);
 
 --
 -- Indexes for dumped tables
